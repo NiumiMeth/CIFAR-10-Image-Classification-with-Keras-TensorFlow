@@ -32,8 +32,6 @@ To run this notebook, you can use either Google Colab or a local Python environm
 2. Run all cells sequentially (`Runtime -> Run all`).
 
 
-   Then, open the `.ipynb` file and run the cells.
-
 ## Model Architecture
 
 The CNN model architecture used in this notebook consists of the following layers:
