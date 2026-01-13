@@ -28,7 +28,7 @@ To run this notebook, you can use either Google Colab or a local Python environm
 
 ### Google Colab (Recommended)
 
-1. Open the notebook in [Google Colab](https://colab.research.google.com).
+1. Open the notebook in [Google Colab](https://colab.research.google.com/drive/1XAFzKztysjDaLci_J_-ZWsEDwFYdWN_M?usp=sharing).
 2. Run all cells sequentially (`Runtime -> Run all`).
 
 
